@@ -217,6 +217,7 @@ def user_stats(df):
 def display_data(df):
     """Displays 5 rows of data from the csv file for the selected city.
     """
+    pd.set_option('display.max_columns',200)
     while True:
         response=['yes','no']
         choice= input("Would you like to view individual trip data (5 entries)? Type 'yes' or 'no'\n").lower()
