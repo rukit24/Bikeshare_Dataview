@@ -8,6 +8,15 @@ In this project, _Python_ is used to explore data related to bike share systems 
 ## **Files used:**
 * bikeshare.py
 
+## **Credits:**
+* Richard Kalehoff (Udacity mentor)
+    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
+    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
+
+* Juno Lee (Udacity Mentor)
+    - [https://github.com/junolee](https://github.com/junolee)
+    - [https://www.linkedin.com/in/junoleelj](https://www.linkedin.com/in/junoleelj)
+
 ## **Softwares needed:**
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
 * A text editor: _Atom_.
